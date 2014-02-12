@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Mantenimiento de Clientes</title>
+
+<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+ <script src="http://code.jquery.com/jquery-migrate-1.2.1.js"></script>
+
+<script src="http://andesign.uni.me/p9/js/jquery.functions.js" type="text/javascript"></script>
+<link type="text/css" rel="stylesheet" href="http://andesign.uni.me/p9/css/estilo.css" />
+
+   
+    <!-- Calendario-->
+<link rel="stylesheet" href="http://andesign.uni.me/p9/css/metallic.css" type="text/css">
+<script type="text/javascript" src="http://andesign.uni.me/p9/js/zebra_datepicker.js"></script>
+
+</head>
+
+<body>
+<div id="contenedor">
+    <div id="formulario" style="display:none;">
+    </div>
+    <div id="tabla">
+    <script>ConsultaDatos();</script>
+    </div>
+</div>
+<span id="daw">Daw 2013</span>
+</body>
+</html>
